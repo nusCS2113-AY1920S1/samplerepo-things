@@ -1,4 +1,4 @@
-yellow
-green
-black
-blue
+red
+red
+white
+brown
