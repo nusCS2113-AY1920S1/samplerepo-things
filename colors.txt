@@ -1,4 +1,4 @@
-blue
-red
-white
-green
+purple
+black
+magenta
+navy
