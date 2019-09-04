@@ -1,3 +1,4 @@
-apples
-berries
-cherries
+blue
+red
+white
+hello world
