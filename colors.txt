@@ -4,3 +4,6 @@ white
 yellow
 black
 purple
+green
+orange
+
