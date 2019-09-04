@@ -2,3 +2,5 @@ purple
 black
 magenta
 navy
+white
+turquoise
